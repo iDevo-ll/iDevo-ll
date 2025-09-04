@@ -23,7 +23,7 @@
 ---
 
 ### 🤝 Open to Collaborate On
-- Open-source projects (JavaScript/TypeScript, Python, Security)  
+- Open-source projects (JavaScript/TypeScript, Go/Golang, C#, Python, Security)  
 - DevOps automation & tools  
 - Creative projects mixing **tech + design**  
 
