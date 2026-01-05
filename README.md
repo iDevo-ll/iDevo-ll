@@ -91,7 +91,7 @@ I'm passionate about building scalable applications, automating infrastructure, 
 
 <div align="center">
   
-![Eleazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDevo-ll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![iDevo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDevo-ll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDevo-ll&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -111,7 +111,7 @@ I'm passionate about building scalable applications, automating infrastructure, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/idevo-seth)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idevo.eleazar@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iDevo)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/188Z6tqnyD)
 
 ---
 
