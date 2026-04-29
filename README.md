@@ -118,6 +118,8 @@ I welcome collaboration on:
 ---
 
 <div align="center">
+  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="idevo-ll" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ci.linkedin.com/in/idevo-ll?trk=profile-badge">Seth Eleazar</a></div>              
 
 [![](https://visitcount.itsvg.in/api?id=iDevo-ll&icon=0&color=0)](https://visitcount.itsvg.in)
 
