@@ -36,6 +36,7 @@ Outside of work, I contribute to open-source projects and take on CTF challenges
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![FractoState](https://img.shields.io/badge/FractoState-111827?style=for-the-badge&logoColor=white)
 
 ### Backend
 
@@ -45,6 +46,7 @@ Outside of work, I contribute to open-source projects and take on CTF challenges
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![XyPriss](https://dll.nehonix.com/assets/XyPriss/logo.jpg)
 
 ### DevOps & Cloud
 
