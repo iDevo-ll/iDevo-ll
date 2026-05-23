@@ -45,7 +45,7 @@ Outside of work, I contribute to open-source projects and take on CTF challenges
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-<img src="https://dll.nehonix.com/assets/XyPriss/logo.jpg" alt="XyPriss" height="28"/>
+![XyPriss](https://img.shields.io/badge/XyPriss-111827?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgo=)
 
 ### DevOps & Cloud
 
