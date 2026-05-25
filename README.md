@@ -1,6 +1,6 @@
 # Seth Eleazar — iDevo
 
-**Lead Developer, Nehonix** · DevOps & Full-Stack Engineer · Cybersecurity Student
+**Founder of Nehonix** · DevOps & Full-Stack Engineer · Cybersecurity Student
 
 I build scalable, secure, and production-ready software — from distributed backend systems to polished front-end experiences. My work sits at the intersection of engineering rigor and creative problem-solving.
 
